@@ -9,7 +9,7 @@ import android.view.View;
 
 public class Practice09SetTextScaleXView extends View {
     Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
-    String text = "Hello HenCoder";
+    String text = "Hello ALler_Dong";
 
     public Practice09SetTextScaleXView(Context context) {
         super(context);

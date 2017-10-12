@@ -10,7 +10,7 @@ import android.view.View;
 
 public class Practice04SetTypefaceView extends View {
     Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
-    String text = "Hello HenCoder";
+    String text = "Hello Aller_Dong";
     Typeface typeface;
 
     public Practice04SetTypefaceView(Context context) {

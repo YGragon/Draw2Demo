@@ -9,7 +9,7 @@ import android.view.View;
 
 public class Practice06SetStrikeThruTextView extends View {
     Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
-    String text = "Hello HenCoder";
+    String text = "Hello Aller_Dong";
 
     public Practice06SetStrikeThruTextView(Context context) {
         super(context);

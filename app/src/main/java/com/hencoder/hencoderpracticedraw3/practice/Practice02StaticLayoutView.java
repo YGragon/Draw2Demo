@@ -12,7 +12,7 @@ import android.view.View;
 
 public class Practice02StaticLayoutView extends View {
     TextPaint textPaint = new TextPaint(Paint.ANTI_ALIAS_FLAG);
-    String text = "Hello\nHenCoder";
+    String text = "Hello\nAller_Dong";
 
     public Practice02StaticLayoutView(Context context) {
         super(context);
