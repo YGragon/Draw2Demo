@@ -11,7 +11,7 @@ import android.view.View;
 public class Practice12MeasureTextView extends View {
     Paint paint1 = new Paint(Paint.ANTI_ALIAS_FLAG);
     Paint paint2 = new Paint(Paint.ANTI_ALIAS_FLAG);
-    String text1 = "三个月内你胖了";
+    String text1 = "三个月内请胖先生胖了";
     String text2 = "4.5";
     String text3 = "公斤";
 
